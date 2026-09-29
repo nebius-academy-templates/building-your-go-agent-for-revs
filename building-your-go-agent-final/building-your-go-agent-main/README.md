@@ -1,7 +1,7 @@
 # Building Your Go Agent
-Build a PR Review Agent for Go. The agent runs in your
+Build a PR Review Agent for Go through seven cumulative practices. The agent runs in your
 coding tool; this repository is its configuration, not a Go implementation of an LLM agent.
-Complete placeholders only for the current stage.
+Follow practice-description.md. Complete placeholders only for the current stage.
 
 ## Practices
 1. System prompt and format, publish-gate, scope-refusal evidence.

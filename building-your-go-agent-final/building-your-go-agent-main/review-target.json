@@ -1,6 +1,6 @@
 {
-  "mode": "local",
-  "owner": "",
+  "mode": "github",
+  "owner": "ispaniuktripleten",
   "repo": "go-pr-review-practice",
   "pr_numbers": {
     "1": 1,
