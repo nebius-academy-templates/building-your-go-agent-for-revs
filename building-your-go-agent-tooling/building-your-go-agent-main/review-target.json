@@ -1,6 +1,6 @@
 {
-  "mode": "local",
-  "owner": "",
+  "mode": "github",
+  "owner": "nebius-academy-templates",
   "repo": "go-pr-review-practice",
   "pr_numbers": {
     "1": 1,
