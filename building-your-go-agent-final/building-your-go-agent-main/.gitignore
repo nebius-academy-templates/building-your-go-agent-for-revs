@@ -1,0 +1,13 @@
+# Keep actual credentials and machine-specific settings out of submissions.
+.env
+.env.*
+!.env.example
+.mcp.json
+.cursor/mcp.json
+.vscode/mcp.json
+.claude/settings.local.json
+*.log
+.DS_Store
+bin/
+coverage.out
+# Skill and agent definitions under .claude/ must remain tracked.
